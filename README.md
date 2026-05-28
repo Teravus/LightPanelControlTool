@@ -1,4 +1,4 @@
-# Neewer Light Panel Tool
+# Unofficial Neewer Light Panel Tool
 
 Neewer Light Panel Tool is a standalone Windows WPF utility for controlling Neewer Bluetooth light panels from third-party stream control software such as StreamDeck, Streamer.bot, SAMMI, or any tool that can send an HTTP request.
 
@@ -16,6 +16,8 @@ On May 9, 2026, Neewer released their official desktop controller, Neewer Contro
 https://support.neewer.com/neewer_control_center_detail?menu=1
 
 Use Neewer Control Center if you want the official desktop controller. This app exists because the official controller does not provide third-party HTTP integration for stream tools.
+
+![Application ScreenShot](https://github.com/Teravus/LightPanelControlTool/blob/main/asset/Screenshot1.png?raw=true)
 
 ## Basic Workflow
 
